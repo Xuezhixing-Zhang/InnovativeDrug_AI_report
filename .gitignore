@@ -1,0 +1,13 @@
+# 大体积/中间产物：codex 原始日志与临时文件
+00_总览与进度/_codex日志/**/*.jsonl
+00_总览与进度/_codex日志/*.jsonl
+00_总览与进度/_codex日志/**/*_last.md
+00_总览与进度/_codex日志/**/prompt_*.txt
+00_总览与进度/_codex日志/**/*single*.txt
+00_总览与进度/_codex日志/**/spec_*.txt
+00_总览与进度/_codex日志/**/deep_single_*.txt
+# 第三方下载原件（体积大且含第三方版权，URL 已记录于 gap log / 检索记录）
+01_技术模块检索/**/下载资料/
+# 系统
+**/.DS_Store
+**/Thumbs.db
